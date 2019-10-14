@@ -1,0 +1,21 @@
+{
+  "name": "fullcalendar-experiments-2.0",
+  "version": "1.0.0",
+  "description": "I'm so sorry but it completely changed so I gotta redo this",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "@fullcalendar/core": "^4.3.1",
+    "@fullcalendar/daygrid": "^4.3.0",
+    "@fullcalendar/list": "^4.3.0",
+    "@fullcalendar/timegrid": "^4.3.0"
+  }
+}
